@@ -82,7 +82,7 @@ class ViewController: UIViewController {
         if index == 0
         {
             index = ProfilAffiches.count - 1
-        }
+        }   
         else{
             index -= 1
         }
